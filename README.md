@@ -8,7 +8,7 @@
 3. [Rule](#3-Rule)
 4. [스터디요약](#4-Study-Recode)
 
-### 1. 소개 
+### 1. 👋소개 
 기초 없는 네트워크 지식을 쌓기 위한 네트워크CS 스터디 입니다. <br>
 
 #### 목표
@@ -31,7 +31,7 @@
 
 <br>
 
-### 2. Member
+### 2. 🌞Member
 | Name | Github |
 | ---- | ------ |
 | 윤병희 | [@Baem](https://github.com/Dylan-yoon) |
@@ -53,7 +53,7 @@
 
 <br>
 
-### 4. 📘 Study Recode
+### 4. 📘Study Recode
 🟢 : 발표 완료 (내용숙지 완료) <br>
 🔴 : 불참 및 내용 준비 미흡
 
