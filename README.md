@@ -36,10 +36,10 @@
 ---
 
 ### 2. 🌞Member
-| Name | Github |
-| ---- | ------ |
-| 윤병희 | [@Baem](https://github.com/Dylan-yoon) |
-| 이지영 | [@SummerCat](https://github.com/dev-summer) |
+| Name      | Github |
+| ----      | ------ |
+| Baem      | [@Baem](https://github.com/Dylan-yoon) |
+| SummerCat | [@SummerCat](https://github.com/dev-summer) |
 <br>
 
 ---
