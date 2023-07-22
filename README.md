@@ -20,9 +20,9 @@
 <br>
 
 | 참고 서적 |
-| ---- |
+| ----    |
 | 성공과 실패를 결정하는 1%의 네트워크 원리 |
-| 사진 추가 |
+| <img src="https://github.com/Dylan-yoon/CS_Network/assets/77507952/c53dc927-fc92-4be4-8ea5-04187c0d13f6" width=30% height=30%> |
 
 <br>
 
