@@ -40,8 +40,7 @@
 | ----      | ------ |
 | Baem      | [@Baem](https://github.com/Dylan-yoon) |
 | SummerCat | [@SummerCat](https://github.com/dev-summer) |
-| Kyo | [@Kyo](https://github.com/KyoPak) |
-
+| Kyo       | [@Kyo](https://github.com/KyoPak)
 <br>
 
 ---
@@ -64,12 +63,12 @@
 🟢 : 발표 완료 (내용숙지 완료) <br>
 🔴 : 불참 및 내용 준비 미흡
 
-| Date |   Chatper | Baem | SummerCat | Kyo |
-| ---- | --------- | ---- | --------- | --- |
-| 7/25 |        OT |  🟢  |    🟢     | 🟢 |
-| 8/1  | CHAPTER 1 |  |  |  |
-| 8/8  | CHAPTER 2 |  |  |  |
-| 8/15 | CHAPTER 3 |  |  |  |
-| 8/22 | CHAPTER 4 |  |  |  |
-| 8/29 | CHAPTER 5 |  |  |  |
-| 8/5  | CHAPTER 6 |  |  |  |
+| Date |   Chatper | Baem | SummerCat |   Kyo    |
+| ---- | --------- | ---- | --------- | -------- |
+| 7/25 |        OT | 🟢   |    🟢     |     🟢    |
+| 8/01 | CHAPTER 1 |      |           |          |
+| 8/08 | CHAPTER 2 |      |           |          |
+| 8/15 | CHAPTER 3 |      |           |          |
+| 8/22 | CHAPTER 4 |      |           |          |
+| 8/29 | CHAPTER 5 |      |           |          |
+| 9/05 | CHAPTER 6 |      |           |          |
