@@ -20,7 +20,7 @@
 <br>
 
 | 참고 서적 |
-| ----    |
+| :----: |
 | 성공과 실패를 결정하는 1%의 네트워크 원리 |
 | <img src="https://github.com/Dylan-yoon/CS_Network/assets/77507952/c53dc927-fc92-4be4-8ea5-04187c0d13f6" width=30% height=30%> |
 
@@ -40,7 +40,8 @@
 | ----      | ------ |
 | Baem      | [@Baem](https://github.com/Dylan-yoon) |
 | SummerCat | [@SummerCat](https://github.com/dev-summer) |
-| Kyo       | [@Kyo](https://github.com/KyoPak)
+| Kyo       | [@Kyo](https://github.com/KyoPak) |
+| Marco     | [@Marco](https://github.com/keeplo) |
 <br>
 
 ---
@@ -63,12 +64,12 @@
 🟢 : 발표 완료 (내용숙지 완료) <br>
 🔴 : 불참 및 내용 준비 미흡
 
-| Date |   Chatper | Baem | SummerCat |   Kyo    |
-| ---- | --------- | ---- | --------- | -------- |
-| 7/25 |        OT | 🟢   |    🟢     |     🟢    |
-| 8/01 | CHAPTER 1 |      |           |          |
-| 8/08 | CHAPTER 2 |      |           |          |
-| 8/15 | CHAPTER 3 |      |           |          |
-| 8/22 | CHAPTER 4 |      |           |          |
-| 8/29 | CHAPTER 5 |      |           |          |
-| 9/05 | CHAPTER 6 |      |           |          |
+| Date |   Chatper | Baem | SummerCat |   Kyo    | Marco|
+| :----: | :---------: | :----: | :---------: | :--------: | :--------: |
+| 7/25 |        OT | 🟢   |    🟢     |     🟢    |   🟢  |
+| 8/01 | CHAPTER 1 |      |           |          |   |
+| 8/08 | CHAPTER 2 |      |           |          |   |
+| 8/15 | CHAPTER 3 |      |           |          |   |
+| 8/22 | CHAPTER 4 |      |           |          |   |
+| 8/29 | CHAPTER 5 |      |           |          |   |
+| 9/05 | CHAPTER 6 |      |           |          |   |
