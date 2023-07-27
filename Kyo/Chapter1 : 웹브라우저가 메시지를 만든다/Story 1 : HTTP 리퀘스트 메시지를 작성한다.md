@@ -76,3 +76,4 @@ HTTP는 메세지를 쓰는 방법(포맷)이 정해져있어서 브라우저는
 
 - 송신할 데이터를 기재
 (서버에서 클라이언트에게 송신하는 데이터, 파일 등이 바이너리 데이터로 취급되어 기재된다.)
+<img width = "2000px" img src= "https://github.com/AlgoMango/Season2/assets/59204352/e3662b1b-3bd8-460d-bbd9-fd3fc802f295">
