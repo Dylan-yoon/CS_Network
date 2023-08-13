@@ -25,3 +25,5 @@ com → kyo → iOS 이런식으로 도메인이 가리키게 된다.(반드시 
 - DNS 서버는 한 번 조사한 이름을 **캐시**에 기록할 수 있다.
     - 캐시에 있는 정보가 또 요청되면 찾지 않고 바로 회답 가능.
 - 캐시 안의 정보는 올바르지 않을 수 있어서 보통 유효기간을 정한다.
+
+<img width = "500px" img src= "https://github.com/KyoPak/Receipt-DAO/assets/59204352/c8a6fd62-df91-4133-8efe-f8510b009be3">
